@@ -59,6 +59,6 @@ Visita la página para probar el sorteo:
 ## Futuras Funcionalidades
 El objetivo de este proeyecto es seguir mejorandolo poco a poco, pronto estaremos desplegando nuevas actualizaciones de este juego para mejorar la experiencia del Usuario.
 
-Asi que les pedimos que esten pendientes de las mejoras.
+Asi que les pedimos que esten pendientes de las futuras mejoras de la pagina web, ¡Muchas Gracias!.
 
 <p align="center">Copyright © 2025 - Desarrollado por Juan Palacio - para AluraLatam </p>
