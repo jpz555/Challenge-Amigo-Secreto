@@ -2,7 +2,7 @@
   <img src="assets/amigo-secreto.png" alt="Sorteo de Amigos Secretos">
 </p>
 
-<h1 align="center">Sorteo de Amigos Secretos</h1>
+<h1 align="center">Sorteo de Amigo Secreto</h1>
 
 ¡Bienvenido al proyecto Sorteo de Amigos Secretos! Esta página web permite a los usuarios organizar sorteos de amigos secretos de forma fácil y divertida.
 
